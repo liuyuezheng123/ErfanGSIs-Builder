@@ -3,9 +3,8 @@ name: GSI Build
 on: [push]
 
 env:
-  ROM_URL: https://pilotfiber.dl.sourceforge.net/project/NusantaraProject//jasmine_sprout/Nusantara_v1.0-jasmine_sprout-14082020-OFFICIAL-0602.zip
-  ROM_NAME: Generic:Nusantara_v1
-  ZIP_NAME: Nusantara_v1
+  ROM_URL: http://download.h2os.com/OnePlus6/OPEN/OnePlus6Hydrogen_22_OTA_065_all_2004012102_98b5c6c8589049b7.zip
+  ZIP_NAME: MIUI
   TZ: America/Sao_Paulo
   MIR: gof
 jobs:
